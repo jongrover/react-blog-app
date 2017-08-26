@@ -1,0 +1,8 @@
+nav {
+  border-right: 1px solid #ccc;
+}
+
+nav a {
+  display: block;
+  padding: 3px 0;
+}

@@ -1,0 +1,17 @@
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background: #ccc url(../../../images/splash-background.jpg) no-repeat;
+  background-size: cover;
+  height: 150px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  border-top: 3px solid white;
+}
+
+.App-intro {
+  font-size: large;
+}
