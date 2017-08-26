@@ -1,4 +1,4 @@
-# Blog Post Digest App BUilt with React
+# Blog Post Digest App Built with React
 
 Example project application for training course on React.
 
